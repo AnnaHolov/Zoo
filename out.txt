@@ -1,0 +1,2 @@
+[Animal{Name='Simba', age=12, Type=lion}, Animal{Name='Auf', age=4, Type=wolf}, Animal{Name='Tik-Tak', age=7, Type=crocodile}, Animal{Name='Donald', age=3, Type=duck}, Animal{Name='Schon', age=1, Type=sheep}, Animal{Name='Gloria', age=10, Type=hippo}, Animal{Name='Go', age=8, Type=panda}]
+E
